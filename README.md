@@ -41,7 +41,7 @@ Fournir un habitat sûr et durable aux **abeilles maçonnières (Osmies)**, poll
 1. **Télécharger** le fichier `Ruche_3.lbrn2`
 2. **Découper** les éléments dans du contreplaqué avec LightBurn
 3. **Assembler** les pièces à l’aide des encoches prévues
-4. **Insérer** les tubes en carton dans les trous prévus à cet effet
+4. **Insérer** un bouchon en bois sur chacun des tubes, en ensuite insérer les tubes en carton dans les trous prévus à cet effet
 5. **Fixer** l’hôtel à abeilles à l’abri de la pluie, orienté sud ou sud-est
 
 ---
