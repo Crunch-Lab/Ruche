@@ -19,7 +19,7 @@ Fournir un habitat sûr et durable aux **abeilles maçonnières (Osmies)**, poll
   - Diamètre intérieur : **8 mm**  
   - Diamètre extérieur : **10 mm**  
   - Longueur : **150 mm**  
-  - [Exemple de fournisseur](https://www.abeilles-et-nature.com/tubes-carton-osmies, ou https://www.amazon.fr/dp/B07V3XBCVZ?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_6 )
+  - [Exemple de fournisseur](https://www.abeillessauvages.com/dloads/Chalets+LesTubesEnCartons-AAS-v.jan2017.pdf?srsltid=AfmBOopZf9bmmH_3U7jg7_dDXhWweMmpEPEtlYoVNw2FB2Vcu4JT5esA, ou https://www.amazon.fr/dp/B07V3XBCVZ?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_6 )
 
 ### ⚙️ Outillage
 - Machine de **découpe laser** compatible avec **LightBurn**
