@@ -31,9 +31,7 @@ Fournir un habitat sûr et durable aux **abeilles maçonnières (Osmies)**, poll
 ## 🗂️ Contenu du dépôt
 
 ```
-/designs/
 └── Ruche_3.lbrn2           → Fichier de découpe laser pour LightBurn
-/docs/                     → (optionnel) Guide PDF ou images
 ```
 
 ---
@@ -50,7 +48,9 @@ Fournir un habitat sûr et durable aux **abeilles maçonnières (Osmies)**, poll
 
 ## 📸 Aperçu
 
-*À insérer : une photo ou un schéma du montage terminé*
+![Ruche](https://github.com/user-attachments/assets/4b4bcede-6f77-48c4-88c9-a14f6a7b74b6)
+![Ruche_1](https://github.com/user-attachments/assets/fb13b157-a77f-4566-bb4f-ff378fe96ac3)
+![Ruche_2](https://github.com/user-attachments/assets/a57c3fe4-cdfd-4cc1-b0e8-8877a4d838dd)
 
 ---
 
@@ -66,7 +66,7 @@ Fournir un habitat sûr et durable aux **abeilles maçonnières (Osmies)**, poll
 ## ✨ Contributeurs
 
 - **Maxime Buquet** — Conception & fabrication
-- Avec le soutien de la communauté makers du **CrunchLab UTBM**
+- Avec le soutien de **Gaïa Energies** et de la communauté makers du **CrunchLab UTBM** 
 
 ---
 
